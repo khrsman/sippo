@@ -4,7 +4,7 @@
 
   <head>
     <meta charset="UTF-8">
-  <title>Arundina apps Login</title>
+  <title>Login Sippo</title>
         <link rel="stylesheet" href="<?php echo base_url() ?>css/login_style.css">
   </head>
 
@@ -13,7 +13,7 @@
     <form name="login-form" class="login-form" action="" method="post">
 
   		<div class="header">
-  		<h1>SIPO APPS</h1>
+  		<h1>SIPPO APPS</h1>
   		<span>Login</span>
   		</div>
 
